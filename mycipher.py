@@ -1,5 +1,5 @@
 import sys
-
+# cipher method
 def cipher(message, shift):
     encrypted_message = ''
     for char in message:
